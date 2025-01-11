@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SubinayPal/Audio-Player/static/css/main.fd0ca901.css",
+    "main.js": "/SubinayPal/Audio-Player/static/js/main.502948e9.js",
+    "index.html": "/SubinayPal/Audio-Player/index.html",
+    "main.fd0ca901.css.map": "/SubinayPal/Audio-Player/static/css/main.fd0ca901.css.map",
+    "main.502948e9.js.map": "/SubinayPal/Audio-Player/static/js/main.502948e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd0ca901.css",
+    "static/js/main.502948e9.js"
+  ]
+}
